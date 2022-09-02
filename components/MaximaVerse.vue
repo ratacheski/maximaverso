@@ -64,7 +64,13 @@ export default {
         {
           windows: [
             { src: 'venda.png', hover: false },
-            { src: 'venda.png', hover: false },
+            {
+              src: 'onblox.png',
+              hover: false,
+              link: 'https://app.gather.town/invite?token=MzICrzvUdG6w28OppBs2bNctXrFN0xTw',
+              parapetName: 'OnBlox',
+              solded: true,
+            },
             { src: 'venda.png', hover: false },
           ],
         },
