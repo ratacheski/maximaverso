@@ -1,4 +1,24 @@
-# maximaverso
+# Maximaverso
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ratacheski/maximaverso?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/ratacheski/maximaverso?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ratacheski/maximaverso?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ratacheski/maximaverso?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/ratacheski/maximaverso?style=for-the-badge)
+
+## 📫 Contributing to Maximaverso
+
+<!--— Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+To contribute to the Maximaverso, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<message_commit>'`
+4. Push to the original branch: `git push origin <project_name> / <local>`
+5. Create the pull request.
+
+Alternatively, see the GitHub documentation
+at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Build Setup
 
@@ -66,3 +86,11 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+## 😄 Be one of the contributors<br>
+
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
+
+## 📝 License
+
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
